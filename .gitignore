@@ -1,0 +1,8 @@
+db.sqlite3
+
+#Byte-compiled/optimized
+__pycache__/
+*.py[cod]
+
+#coverage
+.coverage 
